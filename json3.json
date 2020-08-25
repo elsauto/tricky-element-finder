@@ -1,0 +1,7 @@
+{
+    "import": ["json1.json", "json4.json"],
+    "Sensor3": {"locator": "//input[text()='BA']", "temp": "130", "humidity":"10%", "position": {"x": "50", "y": "20"}, "height": 10, "width": 10},
+    "__FINDERS__": [
+	    {"locator": "//input[@type='select' and text()='_ELEMENT_NAME_']"}
+    ]
+}

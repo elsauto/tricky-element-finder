@@ -1,0 +1,6 @@
+{
+    "import": ["json2.json", "json3.json"],
+    "Sensor1": {"locator": "//input[text()='BA']", "temp": "30", "humidity": "40%", "position": {"x": "120", "y": "130"}, "height": 100, "width": 150},
+    "Sensor2": {"locator": "//input[text()='CABA']", "temp": "20", "humidity": "80%", "position": {"x": "100", "y": "110"}, "height": 50, "width": 60}
+}
+

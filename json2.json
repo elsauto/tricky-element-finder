@@ -1,0 +1,7 @@
+{
+    "__FINDERS__": [
+         {"locator": "//input[text()='_ELEMENT_NAME_']"},
+         {"locator": "//div[@class='_ELEMENT_NAME_']"},
+	 {"locator": "//input[@type='radio' and text()='_ELEMENT_NAME_']"}
+    ]
+}
